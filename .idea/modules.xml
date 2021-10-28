@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bilibili/Bilibili.iml" filepath="$PROJECT_DIR$/Bilibili/Bilibili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeTop/CodeTop.iml" filepath="$PROJECT_DIR$/CodeTop/CodeTop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KSExam/KSExam.iml" filepath="$PROJECT_DIR$/KSExam/KSExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeiDiExam/MeiDiExam.iml" filepath="$PROJECT_DIR$/MeiDiExam/MeiDiExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiExam/MiExam.iml" filepath="$PROJECT_DIR$/MiExam/MiExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiHoYoExam/MiHoYoExam.iml" filepath="$PROJECT_DIR$/MiHoYoExam/MiHoYoExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TongHSExam/TongHSExam.iml" filepath="$PROJECT_DIR$/TongHSExam/TongHSExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stuJava.iml" filepath="$PROJECT_DIR$/.idea/stuJava.iml" />
+    </modules>
+  </component>
+</project>
